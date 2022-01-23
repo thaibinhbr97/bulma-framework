@@ -1,2 +1,2 @@
 ## bulma_framework
-# I create some websites using Bulma framework
+# I create some projects using Bulma framework
